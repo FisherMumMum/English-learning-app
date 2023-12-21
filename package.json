@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FisherMumMum/English-learning-app/issues"
   },
-  "homepage": "https://github.com/FisherMumMum/English-learning-app#readme"
+  "homepage": "https://github.com/FisherMumMum/English-learning-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
